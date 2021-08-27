@@ -8,7 +8,7 @@
 //npm install express-fileupload
 
 //debe ir dentro de la carpeta public la carpeta imgs (tambien irian css eventualmente) y el resto como node_modules y .json afuera
-//para correrlo hay que estar posicionado en la carpeta public (si ya estas en collage escribe en terminal cd public) y luego node index.js
+//para correrlo hay que estar posicionado en la carpeta collage y luego escribir en terminal: node index.js
 //luego ir al browser y escribir localhost:3000
 
 //si se quiere salir de terminal: ctrl + c    y luego para levantar el server nuevamente e ir probando cambios: node index.js
