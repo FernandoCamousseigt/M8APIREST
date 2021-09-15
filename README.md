@@ -1,5 +1,5 @@
 # M8APIREST
-API REST (dia1 Collage)
+API REST (imagenes)
 //se debe crear el .JSON   .escribe en terminal:
 //npm install jquery
 //npm install bootstrap  (es opcional)
